@@ -5,5 +5,5 @@
 * Developed module with Raspberry Pi which sends PWM signal to autonomously fine-tune the done by mimicking RC signal
 
 
-#Qiuck View of Drone 
+# Qiuck View of Drone 
 ![alt text](drone_img.jpeg)
